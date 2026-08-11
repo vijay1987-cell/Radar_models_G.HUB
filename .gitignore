@@ -1,0 +1,24 @@
+# Data files — proprietary, not for sharing
+*.csv
+*.xlsx
+*.parquet
+*.h5
+*.hdf5
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large binaries that should be tracked via Git LFS if needed
+# (comment out to include model weights directly)
+# *.pt
+# *.pkl

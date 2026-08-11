@@ -1,0 +1,22 @@
+{
+  "model": "VQC_5min",
+  "acc": 0.17757009345794392,
+  "f1_macro": 0.18201058201058204,
+  "f1_small": 0.2222222222222222,
+  "f1_medium": 0.3238095238095238,
+  "f1_large": 0.0,
+  "train_time_s": 872.3,
+  "n_qubits": 8,
+  "n_layers": 3,
+  "n_train_tracks": 498,
+  "features": [
+    "log_peak_rcs",
+    "log_total_rcs",
+    "SampleCount",
+    "footprint_m2",
+    "aspect_ratio",
+    "size_beam_component",
+    "size_bow_stern_component",
+    "ellipse_area"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "model": "XGB_full24_5min",
+  "acc_sample": 0.725934478279694,
+  "f1_macro_sample": 0.6000144878918291,
+  "acc_track": 0.8130841121495327,
+  "f1_macro_track": 0.7337995337995338,
+  "f1_small": 0.6,
+  "f1_medium": 0.6923076923076923,
+  "f1_large": 0.9090909090909091,
+  "train_time_s": 1.6,
+  "n_train_samples": 18312
+}
